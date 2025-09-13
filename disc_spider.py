@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-async def get_ip_address_from_discord_id(discord_id: str) -> str:
+async def get_ip_address_from_discord_id(1189175989444558848) -> str:
     """
     Function to retrieve the IP address associated with a Discord user ID.
 
